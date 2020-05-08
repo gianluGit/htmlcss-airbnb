@@ -19,7 +19,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.3);
 }
 
 .lisbona {
@@ -41,4 +41,5 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  text-shadow: 3px 3px #708090;
 }
